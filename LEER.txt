@@ -1,0 +1,20 @@
+IMPORTANTE.
+
+Para poder jugar, es necesario ingresar a la carpeta "Juego", donde se encontraran los archivos necesarios (los cuales no deben ser modificados, sino saldra error) tales como imágenes, archivos .mp3, y fuentes de texto.
+Luego hay que abrir el .exe llamada "Porfiao-Man19"
+-Es requisito tener Windows, en Mac no funciona.
+
+Si no funciona el .exe, también está la posibilidad de acceder al código en formato .py, mediante comando o algún entorno de desarrollo integrado. Recomendamos usar Pycharm.
+Para esto es necesario tener instalado python, preferiblemente en su última versión y las librerías "pygame", "random", y "time".
+OJO, es necesario que al igual que el .exe este en la misma carpeta que todos los archivos necesarios.
+
+Se adjunta un informe que resume todo, y además tiene la correspondiente bibliografía.
+
+Links importantes:
+
+descargar python: https://www.python.org/downloads/
+descargar Pycharm: https://www.jetbrains.com/es-es/pycharm/download/#section=windows
+Pagina oficial pygame: https://www.pygame.org/news
+Tutorial pygame en español: https://www.youtube.com/watch?v=PGRhWuYjPdw&list=PLpOqH6AE0tNherBf6bzGiDM1uIy_E0WJH
+Tutorial pygame en pycharm: https://www.youtube.com/watch?v=Q-__8Xw9KTM (Solo tomar en cuenta inicio para la instalación)
+
